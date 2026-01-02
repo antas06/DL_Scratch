@@ -1,4 +1,4 @@
-##DL-Scratch 🧠
+#DL-Scratch 🧠
 
 This repo is my personal learning space where I implement Deep Learning concepts from scratch to understand what’s really happening under the hood.
 
