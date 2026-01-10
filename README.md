@@ -21,3 +21,5 @@ Digit_classification.ipynb – Digit classification using NN
 Credit_card_churn.ipynb – Binary classification problem
 
 Admission_Predictor.ipynb – Admission prediction using DL
+
+CNN_Implenentation - Implemented a CNN architecture to predict the number from the image. Used the MNSIT dataset. Also compared the results with Perceptron and ANN architecture.
