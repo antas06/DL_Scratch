@@ -63,6 +63,11 @@ The focus is on:
 
 ---
 
+### 5. Multimodal Transformers
+
+- `Roberta-ViT(2).ipynb`  
+  Advanced dual-tower framework combining language (`roberta-base`) and vision (`vit-base`) transformers for multimodal classification. Concatenates parallel 768-dimensional text and image vectors into a joint 1,536-dimensional embedding layer.
+
 ## Tech Stack & Philosophy
 
 - Jupyter Notebooks (primarily Google Colab) for interactive experimentation [page:0]
